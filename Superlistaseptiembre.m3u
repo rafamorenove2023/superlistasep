@@ -1,0 +1,673 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="A&E" tvg-logo="http://movies.iptvhn.net/chlogos/ae.png" group-title="Entretenimiento",A&E
+http://go.iptvhn.net:25461/live/7686/7686/6.ts
+#EXTINF:-1 tvg-id="" tvg-name="A&E HD" tvg-logo="http://movies.iptvhn.net/chlogos/aehd.png" group-title="Entretenimiento",A&E HD
+http://go.iptvhn.net:25461/live/7686/7686/7.ts
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet" tvg-logo="http://movies.iptvhn.net/chlogos/animalplanet.png" group-title="Entretenimiento",Animal Planet
+http://go.iptvhn.net:25461/live/7686/7686/13.ts
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet HD" tvg-logo="http://movies.iptvhn.net/chlogos/animalplanethd.png" group-title="Entretenimiento",Animal Planet HD
+http://go.iptvhn.net:25461/live/7686/7686/14.ts
+#EXTINF:-1 tvg-id="" tvg-name="Antena 3" tvg-logo="http://movies.iptvhn.net/chlogos/antena3.png" group-title="Internacionales",Antena 3
+http://go.iptvhn.net:25461/live/7686/7686/15.ts
+#EXTINF:-1 tvg-id="" tvg-name="Antena 7- RD" tvg-logo="http://movies.iptvhn.net/chlogos/antena7.png" group-title="Republica Dominicana",Antena 7- RD
+http://go.iptvhn.net:25461/live/7686/7686/16.ts
+#EXTINF:-1 tvg-id="" tvg-name="Atres Series" tvg-logo="http://movies.iptvhn.net/chlogos/atres.png" group-title="Internacionales",Atres Series
+http://go.iptvhn.net:25461/live/7686/7686/17.ts
+#EXTINF:-1 tvg-id="" tvg-name="Azcorazon" tvg-logo="http://movies.iptvhn.net/chlogos/azcorazon.png" group-title="Peliculas",Azcorazon
+http://go.iptvhn.net:25461/live/7686/7686/18.ts
+#EXTINF:-1 tvg-id="" tvg-name="Azmundo" tvg-logo="http://movies.iptvhn.net/chlogos/azmundo.png" group-title="Peliculas",Azmundo
+http://go.iptvhn.net:25461/live/7686/7686/19.ts
+#EXTINF:-1 tvg-id="" tvg-name="Azteca Uno" tvg-logo="http://movies.iptvhn.net/chlogos/aztecauno.png" group-title="Entretenimiento",Azteca Uno
+http://go.iptvhn.net:25461/live/7686/7686/20.ts
+#EXTINF:-1 tvg-id="" tvg-name="Baby First" tvg-logo="http://movies.iptvhn.net/chlogos/babyfirst.png" group-title="Infantiles",Baby First
+http://go.iptvhn.net:25461/live/7686/7686/21.ts
+#EXTINF:-1 tvg-id="" tvg-name="Baby TV" tvg-logo="http://movies.iptvhn.net/chlogos/babytv.png" group-title="Infantiles",Baby TV
+http://go.iptvhn.net:25461/live/7686/7686/22.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 13 - NI" tvg-logo="http://movies.iptvhn.net/chlogos/canal13nic.png" group-title="Locales Nicaragua",CANAL 13 - NI
+http://go.iptvhn.net:25461/live/7686/7686/23.ts
+#EXTINF:-1 tvg-id="" tvg-name="CARTOON NT HD" tvg-logo="http://movies.iptvhn.net/chlogos/cartoon.png" group-title="Infantiles",CARTOON NT HD
+http://go.iptvhn.net:25461/live/7686/7686/24.ts
+#EXTINF:-1 tvg-id="" tvg-name="CDN2- RD" tvg-logo="http://movies.iptvhn.net/chlogos/cdn.png" group-title="Republica Dominicana",CDN2- RD
+http://go.iptvhn.net:25461/live/7686/7686/25.ts
+#EXTINF:-1 tvg-id="" tvg-name="CDN37 - RD" tvg-logo="http://movies.iptvhn.net/chlogos/cdn.png" group-title="Republica Dominicana",CDN37 - RD
+http://go.iptvhn.net:25461/live/7686/7686/26.ts
+#EXTINF:-1 tvg-id="" tvg-name="CERTV" tvg-logo="http://movies.iptvhn.net/chlogos/certv.png" group-title="Internacionales",CERTV
+http://go.iptvhn.net:25461/live/7686/7686/27.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINECANAL HD" tvg-logo="http://movies.iptvhn.net/chlogos/cinecanal.png" group-title="Peliculas",CINECANAL HD
+http://go.iptvhn.net:25461/live/7686/7686/28.ts
+#EXTINF:-1 tvg-id="" tvg-name="CNN Internacional" tvg-logo="http://movies.iptvhn.net/chlogos/cnne.png" group-title="Noticias",CNN Internacional
+http://go.iptvhn.net:25461/live/7686/7686/29.ts
+#EXTINF:-1 tvg-id="" tvg-name="CNNE" tvg-logo="http://movies.iptvhn.net/chlogos/cnn.png" group-title="Noticias",CNNE
+http://go.iptvhn.net:25461/live/7686/7686/30.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal 10 - ESA" tvg-logo="http://movies.iptvhn.net/chlogos/canal10sal.png" group-title="Locales El Salvador",Canal 10 - ESA
+http://go.iptvhn.net:25461/live/7686/7686/31.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal 10 HD" tvg-logo="http://movies.iptvhn.net/chlogos/canal10hn.png" group-title="Locales Honduras",Canal 10 HD
+http://go.iptvhn.net:25461/live/7686/7686/32.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal 11 - GUA" tvg-logo="http://movies.iptvhn.net/chlogos/canal11gua.png" group-title="Locales Guatemala",Canal 11 - GUA
+http://go.iptvhn.net:25461/live/7686/7686/33.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal 11 - HON" tvg-logo="http://movies.iptvhn.net/chlogos/canal11hn.png" group-title="Locales Honduras",Canal 11 - HON
+http://go.iptvhn.net:25461/live/7686/7686/34.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal 13 - PAN" tvg-logo="http://movies.iptvhn.net/chlogos/canal13pan.png" group-title="Locales Panama",Canal 13 - PAN
+http://go.iptvhn.net:25461/live/7686/7686/35.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal 13-GUA" tvg-logo="http://movies.iptvhn.net/chlogos/canal13gua.png" group-title="Locales Guatemala",Canal 13-GUA
+http://go.iptvhn.net:25461/live/7686/7686/36.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal 14 - NIC" tvg-logo="http://movies.iptvhn.net/chlogos/canal14nic.png" group-title="Locales Nicaragua",Canal 14 - NIC
+http://go.iptvhn.net:25461/live/7686/7686/37.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal 19  ESA" tvg-logo="http://movies.iptvhn.net/chlogos/canal19sal.png" group-title="Locales El Salvador",Canal 19  ESA
+http://go.iptvhn.net:25461/live/7686/7686/38.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal 2 - ESA" tvg-logo="http://movies.iptvhn.net/chlogos/canal2sal.png" group-title="Locales El Salvador",Canal 2 - ESA
+http://go.iptvhn.net:25461/live/7686/7686/39.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal 2 - NIC" tvg-logo="http://movies.iptvhn.net/chlogos/canal2nic.png" group-title="Locales Nicaragua",Canal 2 - NIC
+http://go.iptvhn.net:25461/live/7686/7686/40.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal 2 - PAN" tvg-logo="http://movies.iptvhn.net/chlogos/canal2pan.png" group-title="Locales Panama",Canal 2 - PAN
+http://go.iptvhn.net:25461/live/7686/7686/41.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal 3 - GUA" tvg-logo="http://movies.iptvhn.net/chlogos/canal3gua.png" group-title="Locales Guatemala",Canal 3 - GUA
+http://go.iptvhn.net:25461/live/7686/7686/42.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal 3 Telesistemas HND" tvg-logo="http://movies.iptvhn.net/chlogos/tsi.png" group-title="Locales Honduras",Canal 3 Telesistemas HND
+http://go.iptvhn.net:25461/live/7686/7686/43.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal 4 - NIC" tvg-logo="http://movies.iptvhn.net/chlogos/canal4nic.png" group-title="Locales Nicaragua",Canal 4 - NIC
+http://go.iptvhn.net:25461/live/7686/7686/44.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal 4 - PAN" tvg-logo="http://movies.iptvhn.net/chlogos/canal4pan.png" group-title="Locales Panama",Canal 4 - PAN
+http://go.iptvhn.net:25461/live/7686/7686/45.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal 4 HD ESA" tvg-logo="http://movies.iptvhn.net/chlogos/canal4sal.png" group-title="Locales El Salvador",Canal 4 HD ESA
+http://go.iptvhn.net:25461/live/7686/7686/46.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal 5 - HON" tvg-logo="http://movies.iptvhn.net/chlogos/canal5hn.png" group-title="Locales Honduras",Canal 5 - HON
+http://go.iptvhn.net:25461/live/7686/7686/47.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal 6 - ESA" tvg-logo="http://movies.iptvhn.net/chlogos/canal6sal.png" group-title="Locales El Salvador",Canal 6 - ESA
+http://go.iptvhn.net:25461/live/7686/7686/48.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal 6 - NI" tvg-logo="http://movies.iptvhn.net/chlogos/canal6nic.png" group-title="Locales Nicaragua",Canal 6 - NI
+http://go.iptvhn.net:25461/live/7686/7686/49.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal 7 - GUA" tvg-logo="http://movies.iptvhn.net/chlogos/canal7gua.png" group-title="Locales Guatemala",Canal 7 - GUA
+http://go.iptvhn.net:25461/live/7686/7686/50.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal Antigua - GUA" tvg-logo="http://movies.iptvhn.net/chlogos/canalantigua.png" group-title="Locales Guatemala",Canal Antigua - GUA
+http://go.iptvhn.net:25461/live/7686/7686/51.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal Azteca - GUA" tvg-logo="http://movies.iptvhn.net/chlogos/aztecagua.png" group-title="Locales Guatemala",Canal Azteca - GUA
+http://go.iptvhn.net:25461/live/7686/7686/52.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal Claro" tvg-logo="http://movies.iptvhn.net/chlogos/clarotv.png" group-title="Peliculas",Canal Claro
+http://go.iptvhn.net:25461/live/7686/7686/53.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal Claro HD" tvg-logo="http://movies.iptvhn.net/chlogos/clarotv.png" group-title="Peliculas",Canal Claro HD
+http://go.iptvhn.net:25461/live/7686/7686/54.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal de las Estrellas HD" tvg-logo="http://movies.iptvhn.net/chlogos/canaldelasestrellas.png" group-title="Entretenimiento",Canal de las Estrellas HD
+http://go.iptvhn.net:25461/live/7686/7686/55.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="http://movies.iptvhn.net/chlogos/cartoonnt.png" group-title="Infantiles",Cartoon Network
+http://go.iptvhn.net:25461/live/7686/7686/56.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cartoonito" tvg-logo="http://movies.iptvhn.net/chlogos/cartoonito.png" group-title="Infantiles",Cartoonito
+http://go.iptvhn.net:25461/live/7686/7686/57.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cine Latino" tvg-logo="http://movies.iptvhn.net/chlogos/cinelatino.png" group-title="Peliculas",Cine Latino
+http://go.iptvhn.net:25461/live/7686/7686/58.ts
+#EXTINF:-1 tvg-id="" tvg-name="CineCanal" tvg-logo="http://movies.iptvhn.net/chlogos/cinecanal.png" group-title="Peliculas",CineCanal
+http://go.iptvhn.net:25461/live/7686/7686/59.ts
+#EXTINF:-1 tvg-id="" tvg-name="CineMax" tvg-logo="http://movies.iptvhn.net/chlogos/cinemax.png" group-title="Peliculas",CineMax
+http://go.iptvhn.net:25461/live/7686/7686/60.ts
+#EXTINF:-1 tvg-id="" tvg-name="Claro Cinema" tvg-logo="http://movies.iptvhn.net/chlogos/clarocinema.png" group-title="Peliculas",Claro Cinema
+http://go.iptvhn.net:25461/live/7686/7686/61.ts
+#EXTINF:-1 tvg-id="" tvg-name="Claro Musica" tvg-logo="http://movies.iptvhn.net/chlogos/claromusica.png" group-title="Musica",Claro Musica
+http://go.iptvhn.net:25461/live/7686/7686/62.ts
+#EXTINF:-1 tvg-id="" tvg-name="Claro Sports 1 HD" tvg-logo="http://movies.iptvhn.net/chlogos/clarosport.png" group-title="Deportes",Claro Sports 1 HD
+http://go.iptvhn.net:25461/live/7686/7686/63.ts
+#EXTINF:-1 tvg-id="" tvg-name="Claro Sports 1 SD" tvg-logo="http://movies.iptvhn.net/chlogos/clarosport.png" group-title="Deportes",Claro Sports 1 SD
+http://go.iptvhn.net:25461/live/7686/7686/64.ts
+#EXTINF:-1 tvg-id="" tvg-name="Claro Sports 2 HD" tvg-logo="http://movies.iptvhn.net/chlogos/clarosport2.png" group-title="Deportes",Claro Sports 2 HD
+http://go.iptvhn.net:25461/live/7686/7686/65.ts
+#EXTINF:-1 tvg-id="" tvg-name="Claro Sports 2 SD" tvg-logo="http://movies.iptvhn.net/chlogos/clarosport2.png" group-title="Deportes",Claro Sports 2 SD
+http://go.iptvhn.net:25461/live/7686/7686/66.ts
+#EXTINF:-1 tvg-id="" tvg-name="Color Vision 9 - RD" tvg-logo="http://movies.iptvhn.net/chlogos/colorvision9.png" group-title="Republica Dominicana",Color Vision 9 - RD
+http://go.iptvhn.net:25461/live/7686/7686/67.ts
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Central HD" tvg-logo="http://movies.iptvhn.net/chlogos/comedycentral.png" group-title="Entretenimiento",Comedy Central HD
+http://go.iptvhn.net:25461/live/7686/7686/68.ts
+#EXTINF:-1 tvg-id="" tvg-name="Concert Channel" tvg-logo="http://movies.iptvhn.net/chlogos/concertchannel.png" group-title="Musica",Concert Channel
+http://go.iptvhn.net:25461/live/7686/7686/69.ts
+#EXTINF:-1 tvg-id="" tvg-name="DHE" tvg-logo="http://movies.iptvhn.net/chlogos/dhe.png" group-title="Peliculas",DHE
+http://go.iptvhn.net:25461/live/7686/7686/70.ts
+#EXTINF:-1 tvg-id="" tvg-name="DHE HD" tvg-logo="http://movies.iptvhn.net/chlogos/dhehd.png" group-title="Peliculas",DHE HD
+http://go.iptvhn.net:25461/live/7686/7686/71.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY THEATHER HD" tvg-logo="http://movies.iptvhn.net/chlogos/discoverytheather.png" group-title="Entretenimiento",DISCOVERY THEATHER HD
+http://go.iptvhn.net:25461/live/7686/7686/72.ts
+#EXTINF:-1 tvg-id="" tvg-name="Digital 15 - RD" tvg-logo="http://movies.iptvhn.net/chlogos/digital15.png" group-title="Republica Dominicana",Digital 15 - RD
+http://go.iptvhn.net:25461/live/7686/7686/73.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel" tvg-logo="http://movies.iptvhn.net/chlogos/discoverychannel.png" group-title="Entretenimiento",Discovery Channel
+http://go.iptvhn.net:25461/live/7686/7686/74.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel HD" tvg-logo="http://movies.iptvhn.net/chlogos/discoverychannel.png" group-title="Entretenimiento",Discovery Channel HD
+http://go.iptvhn.net:25461/live/7686/7686/75.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Home & Health" tvg-logo="http://movies.iptvhn.net/chlogos/discoveryhome.png" group-title="Entretenimiento",Discovery Home & Health
+http://go.iptvhn.net:25461/live/7686/7686/76.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery ID HD" tvg-logo="http://movies.iptvhn.net/chlogos/discoveryid.png" group-title="Entretenimiento",Discovery ID HD
+http://go.iptvhn.net:25461/live/7686/7686/77.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids" tvg-logo="http://movies.iptvhn.net/chlogos/discoverykids.png" group-title="Infantiles",Discovery Kids
+http://go.iptvhn.net:25461/live/7686/7686/78.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids HD" tvg-logo="http://movies.iptvhn.net/chlogos/discoverykids.png" group-title="Infantiles",Discovery Kids HD
+http://go.iptvhn.net:25461/live/7686/7686/79.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Science" tvg-logo="http://movies.iptvhn.net/chlogos/discoveryscience.png" group-title="Entretenimiento",Discovery Science
+http://go.iptvhn.net:25461/live/7686/7686/80.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo" tvg-logo="http://movies.iptvhn.net/chlogos/discoveryturbo.png" group-title="Entretenimiento",Discovery Turbo
+http://go.iptvhn.net:25461/live/7686/7686/81.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery World HD" tvg-logo="http://movies.iptvhn.net/chlogos/discoveryworld.png" group-title="Entretenimiento",Discovery World HD
+http://go.iptvhn.net:25461/live/7686/7686/82.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney" tvg-logo="http://movies.iptvhn.net/chlogos/disney.png" group-title="Infantiles",Disney
+http://go.iptvhn.net:25461/live/7686/7686/83.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney JR" tvg-logo="http://movies.iptvhn.net/chlogos/disneyjr.png" group-title="Infantiles",Disney JR
+http://go.iptvhn.net:25461/live/7686/7686/84.ts
+#EXTINF:-1 tvg-id="" tvg-name="E!" tvg-logo="http://movies.iptvhn.net/chlogos/ei.png" group-title="Entretenimiento",E!
+http://go.iptvhn.net:25461/live/7686/7686/85.ts
+#EXTINF:-1 tvg-id="" tvg-name="E! Entertairment HD" tvg-logo="http://movies.iptvhn.net/chlogos/ehd.png" group-title="Entretenimiento",E! Entertairment HD
+http://go.iptvhn.net:25461/live/7686/7686/86.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="http://movies.iptvhn.net/chlogos/espn.png" group-title="Deportes",ESPN
+http://go.iptvhn.net:25461/live/7686/7686/87.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN  +" tvg-logo="http://movies.iptvhn.net/chlogos/espnmas.png" group-title="Deportes",ESPN  +
+http://go.iptvhn.net:25461/live/7686/7686/88.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2" tvg-logo="http://movies.iptvhn.net/chlogos/espn2.png" group-title="Deportes",ESPN 2
+http://go.iptvhn.net:25461/live/7686/7686/89.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 HD" tvg-logo="http://movies.iptvhn.net/chlogos/espn2.png" group-title="Deportes",ESPN 2 HD
+http://go.iptvhn.net:25461/live/7686/7686/90.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3" tvg-logo="http://movies.iptvhn.net/chlogos/espn3.png" group-title="Deportes",ESPN 3
+http://go.iptvhn.net:25461/live/7686/7686/91.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 HD" tvg-logo="http://movies.iptvhn.net/chlogos/espn3.png" group-title="Deportes",ESPN 3 HD
+http://go.iptvhn.net:25461/live/7686/7686/92.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 4" tvg-logo="http://movies.iptvhn.net/chlogos/espn4.png" group-title="Deportes",ESPN 4
+http://go.iptvhn.net:25461/live/7686/7686/93.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 4  HD" tvg-logo="http://movies.iptvhn.net/chlogos/espn4.png" group-title="Deportes",ESPN 4  HD
+http://go.iptvhn.net:25461/live/7686/7686/94.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN HD" tvg-logo="http://movies.iptvhn.net/chlogos/espn.png" group-title="Deportes",ESPN HD
+http://go.iptvhn.net:25461/live/7686/7686/95.ts
+#EXTINF:-1 tvg-id="" tvg-name="EURO Channel" tvg-logo="http://movies.iptvhn.net/chlogos/eurochannel.png" group-title="Entretenimiento",EURO Channel
+http://go.iptvhn.net:25461/live/7686/7686/96.ts
+#EXTINF:-1 tvg-id="" tvg-name="EWTN" tvg-logo="http://movies.iptvhn.net/chlogos/ewtn.png" group-title="Entretenimiento",EWTN
+http://go.iptvhn.net:25461/live/7686/7686/97.ts
+#EXTINF:-1 tvg-id="" tvg-name="El Gourmet" tvg-logo="http://movies.iptvhn.net/chlogos/gourmet.png" group-title="Entretenimiento",El Gourmet
+http://go.iptvhn.net:25461/live/7686/7686/98.ts
+#EXTINF:-1 tvg-id="" tvg-name="Europa HD" tvg-logo="http://movies.iptvhn.net/chlogos/europa.png" group-title="Entretenimiento",Europa HD
+http://go.iptvhn.net:25461/live/7686/7686/99.ts
+#EXTINF:-1 tvg-id="" tvg-name="Exa TV" tvg-logo="http://movies.iptvhn.net/chlogos/exa.png" group-title="Musica",Exa TV
+http://go.iptvhn.net:25461/live/7686/7686/100.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2 HD" tvg-logo="http://movies.iptvhn.net/chlogos/foxsport2.png" group-title="Deportes",FOX SPORTS 2 HD
+http://go.iptvhn.net:25461/live/7686/7686/101.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 3 HD" tvg-logo="http://movies.iptvhn.net/chlogos/foxsport3.png" group-title="Deportes",FOX SPORTS 3 HD
+http://go.iptvhn.net:25461/live/7686/7686/102.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX Sports 2" tvg-logo="http://movies.iptvhn.net/chlogos/foxsport2.png" group-title="Deportes",FOX Sports 2
+http://go.iptvhn.net:25461/live/7686/7686/103.ts
+#EXTINF:-1 tvg-id="" tvg-name="FUTV CR" tvg-logo="http://movies.iptvhn.net/chlogos/futv.png" group-title="Locales Costa Rica",FUTV CR
+http://go.iptvhn.net:25461/live/7686/7686/104.ts
+#EXTINF:-1 tvg-id="" tvg-name="FUTV HD CR" tvg-logo="http://movies.iptvhn.net/chlogos/futv.png" group-title="Locales Costa Rica",FUTV HD CR
+http://go.iptvhn.net:25461/live/7686/7686/105.ts
+#EXTINF:-1 tvg-id="" tvg-name="FX" tvg-logo="http://movies.iptvhn.net/chlogos/fx.png" group-title="Peliculas",FX
+http://go.iptvhn.net:25461/live/7686/7686/106.ts
+#EXTINF:-1 tvg-id="" tvg-name="FX HD" tvg-logo="http://movies.iptvhn.net/chlogos/fxhd.png" group-title="Peliculas",FX HD
+http://go.iptvhn.net:25461/live/7686/7686/107.ts
+#EXTINF:-1 tvg-id="" tvg-name="Film & Arts" tvg-logo="http://movies.iptvhn.net/chlogos/filmarts.png" group-title="Entretenimiento",Film & Arts
+http://go.iptvhn.net:25461/live/7686/7686/108.ts
+#EXTINF:-1 tvg-id="" tvg-name="Film & arts HD" tvg-logo="http://movies.iptvhn.net/chlogos/filmarts.png" group-title="Entretenimiento",Film & arts HD
+http://go.iptvhn.net:25461/live/7686/7686/109.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sport 3" tvg-logo="http://movies.iptvhn.net/chlogos/foxsport3.png" group-title="Deportes",Fox Sport 3
+http://go.iptvhn.net:25461/live/7686/7686/110.ts
+#EXTINF:-1 tvg-id="" tvg-name="Golden" tvg-logo="http://movies.iptvhn.net/chlogos/golden.png" group-title="Peliculas",Golden
+http://go.iptvhn.net:25461/live/7686/7686/111.ts
+#EXTINF:-1 tvg-id="" tvg-name="Golden Premiere 2 HD" tvg-logo="http://movies.iptvhn.net/chlogos/goldenpremier2.png" group-title="Peliculas",Golden Premiere 2 HD
+http://go.iptvhn.net:25461/live/7686/7686/112.ts
+#EXTINF:-1 tvg-id="" tvg-name="Golden Premiere HD" tvg-logo="http://movies.iptvhn.net/chlogos/goldenpremier2.png" group-title="Peliculas",Golden Premiere HD
+http://go.iptvhn.net:25461/live/7686/7686/113.ts
+#EXTINF:-1 tvg-id="" tvg-name="Golf Channel" tvg-logo="http://movies.iptvhn.net/chlogos/golf.png" group-title="Deportes",Golf Channel
+http://go.iptvhn.net:25461/live/7686/7686/114.ts
+#EXTINF:-1 tvg-id="" tvg-name="Golf Channel HD" tvg-logo="http://movies.iptvhn.net/chlogos/golf.png" group-title="Deportes",Golf Channel HD
+http://go.iptvhn.net:25461/live/7686/7686/115.ts
+#EXTINF:-1 tvg-id="" tvg-name="Guatevision - GUA" tvg-logo="http://movies.iptvhn.net/chlogos/guatevision.png" group-title="Locales Guatemala",Guatevision - GUA
+http://go.iptvhn.net:25461/live/7686/7686/116.ts
+#EXTINF:-1 tvg-id="" tvg-name="H2" tvg-logo="http://movies.iptvhn.net/chlogos/h2.png" group-title="Entretenimiento",H2
+http://go.iptvhn.net:25461/live/7686/7686/117.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family HD" tvg-logo="http://movies.iptvhn.net/chlogos/hbofamily.png" group-title="Peliculas",HBO Family HD
+http://go.iptvhn.net:25461/live/7686/7686/118.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO HD" tvg-logo="http://movies.iptvhn.net/chlogos/hbohd.png" group-title="Peliculas",HBO HD
+http://go.iptvhn.net:25461/live/7686/7686/119.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO Plus HD" tvg-logo="http://movies.iptvhn.net/chlogos/hboplus.png" group-title="Peliculas",HBO Plus HD
+http://go.iptvhn.net:25461/live/7686/7686/120.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO XTREME" tvg-logo="http://movies.iptvhn.net/chlogos/hboextreme.png" group-title="Peliculas",HBO XTREME
+http://go.iptvhn.net:25461/live/7686/7686/121.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO2 HD" tvg-logo="http://movies.iptvhn.net/chlogos/hbo2.png" group-title="Peliculas",HBO2 HD
+http://go.iptvhn.net:25461/live/7686/7686/122.ts
+#EXTINF:-1 tvg-id="" tvg-name="HCH- HON" tvg-logo="http://movies.iptvhn.net/chlogos/hch.png" group-title="Locales Honduras",HCH- HON
+http://go.iptvhn.net:25461/live/7686/7686/123.ts
+#EXTINF:-1 tvg-id="" tvg-name="HOLA! TV HD" tvg-logo="http://movies.iptvhn.net/chlogos/hola.png" group-title="Entretenimiento",HOLA! TV HD
+http://go.iptvhn.net:25461/live/7686/7686/124.ts
+#EXTINF:-1 tvg-id="" tvg-name="HTV" tvg-logo="http://movies.iptvhn.net/chlogos/htv.png" group-title="Musica",HTV
+http://go.iptvhn.net:25461/live/7686/7686/125.ts
+#EXTINF:-1 tvg-id="" tvg-name="History Channel" tvg-logo="http://movies.iptvhn.net/chlogos/historychannel.png" group-title="Entretenimiento",History Channel
+http://go.iptvhn.net:25461/live/7686/7686/126.ts
+#EXTINF:-1 tvg-id="" tvg-name="History HD" tvg-logo="http://movies.iptvhn.net/chlogos/history.png" group-title="Entretenimiento",History HD
+http://go.iptvhn.net:25461/live/7686/7686/127.ts
+#EXTINF:-1 tvg-id="" tvg-name="Hola!TV" tvg-logo="http://movies.iptvhn.net/chlogos/hola.png" group-title="Entretenimiento",Hola!TV
+http://go.iptvhn.net:25461/live/7686/7686/128.ts
+#EXTINF:-1 tvg-id="" tvg-name="Home & Health HD" tvg-logo="http://movies.iptvhn.net/chlogos/home.png" group-title="Entretenimiento",Home & Health HD
+http://go.iptvhn.net:25461/live/7686/7686/129.ts
+#EXTINF:-1 tvg-id="" tvg-name="Home Garden Latino" tvg-logo="http://movies.iptvhn.net/chlogos/homegarden.png" group-title="Entretenimiento",Home Garden Latino
+http://go.iptvhn.net:25461/live/7686/7686/130.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID" tvg-logo="http://movies.iptvhn.net/chlogos/id.png" group-title="Peliculas",ID
+http://go.iptvhn.net:25461/live/7686/7686/131.ts
+#EXTINF:-1 tvg-id="" tvg-name="LIFE TIME" tvg-logo="http://movies.iptvhn.net/chlogos/lifetime.png" group-title="Entretenimiento",LIFE TIME
+http://go.iptvhn.net:25461/live/7686/7686/132.ts
+#EXTINF:-1 tvg-id="" tvg-name="La voz de Maria" tvg-logo="http://movies.iptvhn.net/chlogos/lavozmaria.png" group-title="Religiosos",La voz de Maria
+http://go.iptvhn.net:25461/live/7686/7686/133.ts
+#EXTINF:-1 tvg-id="" tvg-name="Latin America Sport" tvg-logo="http://movies.iptvhn.net/chlogos/latinamericasport.png" group-title="Deportes",Latin America Sport
+http://go.iptvhn.net:25461/live/7686/7686/134.ts
+#EXTINF:-1 tvg-id="" tvg-name="MASTV - PAN" tvg-logo="http://movies.iptvhn.net/chlogos/mastv.png" group-title="Locales Panama",MASTV - PAN
+http://go.iptvhn.net:25461/live/7686/7686/135.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV" tvg-logo="http://movies.iptvhn.net/chlogos/mtv.png" group-title="Musica",MTV
+http://go.iptvhn.net:25461/live/7686/7686/136.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV 00s" tvg-logo="http://movies.iptvhn.net/chlogos/mtv00.png" group-title="Musica",MTV 00s
+http://go.iptvhn.net:25461/live/7686/7686/137.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV 00s HD" tvg-logo="http://movies.iptvhn.net/chlogos/mtv00.png" group-title="Musica",MTV 00s HD
+http://go.iptvhn.net:25461/live/7686/7686/138.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV 80s" tvg-logo="http://movies.iptvhn.net/chlogos/mtv80.png" group-title="Musica",MTV 80s
+http://go.iptvhn.net:25461/live/7686/7686/139.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV HD" tvg-logo="http://movies.iptvhn.net/chlogos/mtvhd.png" group-title="Musica",MTV HD
+http://go.iptvhn.net:25461/live/7686/7686/140.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV Hits" tvg-logo="http://movies.iptvhn.net/chlogos/mtvhits.png" group-title="Musica",MTV Hits
+http://go.iptvhn.net:25461/live/7686/7686/141.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV SIM HD" tvg-logo="http://movies.iptvhn.net/chlogos/mtvsim.png" group-title="Musica",MTV SIM HD
+http://go.iptvhn.net:25461/live/7686/7686/142.ts
+#EXTINF:-1 tvg-id="" tvg-name="Mas Chic" tvg-logo="http://movies.iptvhn.net/chlogos/maschic.png" group-title="Entretenimiento",Mas Chic
+http://go.iptvhn.net:25461/live/7686/7686/143.ts
+#EXTINF:-1 tvg-id="" tvg-name="Multicinema" tvg-logo="http://movies.iptvhn.net/chlogos/multicinema.png" group-title="Peliculas",Multicinema
+http://go.iptvhn.net:25461/live/7686/7686/144.ts
+#EXTINF:-1 tvg-id="" tvg-name="Multimedios" tvg-logo="http://movies.iptvhn.net/chlogos/multimedios.png" group-title="Internacionales",Multimedios
+http://go.iptvhn.net:25461/live/7686/7686/145.ts
+#EXTINF:-1 tvg-id="" tvg-name="Multipremier" tvg-logo="http://movies.iptvhn.net/chlogos/multipremier.png" group-title="Peliculas",Multipremier
+http://go.iptvhn.net:25461/live/7686/7686/146.ts
+#EXTINF:-1 tvg-id="" tvg-name="NEXT - PAN" tvg-logo="http://movies.iptvhn.net/chlogos/nextpan.png" group-title="Locales Panama",NEXT - PAN
+http://go.iptvhn.net:25461/live/7686/7686/147.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo HD" tvg-logo="http://movies.iptvhn.net/chlogos/natgeo.png" group-title="Entretenimiento",Nat Geo HD
+http://go.iptvhn.net:25461/live/7686/7686/148.ts
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic" tvg-logo="http://movies.iptvhn.net/chlogos/national.png" group-title="Entretenimiento",National Geographic
+http://go.iptvhn.net:25461/live/7686/7686/149.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nicarao TV" tvg-logo="http://movies.iptvhn.net/chlogos/nicaraotv.png" group-title="Locales Nicaragua",Nicarao TV
+http://go.iptvhn.net:25461/live/7686/7686/150.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nick Jr" tvg-logo="http://movies.iptvhn.net/chlogos/nickjr.png" group-title="Infantiles",Nick Jr
+http://go.iptvhn.net:25461/live/7686/7686/151.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nick SIM HD" tvg-logo="http://movies.iptvhn.net/chlogos/nicksim.png" group-title="Infantiles",Nick SIM HD
+http://go.iptvhn.net:25461/live/7686/7686/152.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon" tvg-logo="http://movies.iptvhn.net/chlogos/nickelodeon.png" group-title="Infantiles",Nickelodeon
+http://go.iptvhn.net:25461/live/7686/7686/153.ts
+#EXTINF:-1 tvg-id="" tvg-name="PXTV" tvg-logo="http://movies.iptvhn.net/chlogos/pxtv.png" group-title="Deportes",PXTV
+http://go.iptvhn.net:25461/live/7686/7686/154.ts
+#EXTINF:-1 tvg-id="" tvg-name="Paramount" tvg-logo="http://movies.iptvhn.net/chlogos/paramount.png" group-title="Peliculas",Paramount
+http://go.iptvhn.net:25461/live/7686/7686/155.ts
+#EXTINF:-1 tvg-id="" tvg-name="Paramount HD" tvg-logo="http://movies.iptvhn.net/chlogos/paramounthd.png" group-title="Peliculas",Paramount HD
+http://go.iptvhn.net:25461/live/7686/7686/156.ts
+#EXTINF:-1 tvg-id="" tvg-name="Pasiones HD" tvg-logo="http://movies.iptvhn.net/chlogos/pasiones.png" group-title="Entretenimiento",Pasiones HD
+http://go.iptvhn.net:25461/live/7686/7686/157.ts
+#EXTINF:-1 tvg-id="" tvg-name="RCN - GUA" tvg-logo="http://movies.iptvhn.net/chlogos/rcngua.png" group-title="Locales Guatemala",RCN - GUA
+http://go.iptvhn.net:25461/live/7686/7686/159.ts
+#EXTINF:-1 tvg-id="" tvg-name="RCN Novelas" tvg-logo="http://movies.iptvhn.net/chlogos/rcn.png" group-title="Entretenimiento",RCN Novelas
+http://go.iptvhn.net:25461/live/7686/7686/160.ts
+#EXTINF:-1 tvg-id="" tvg-name="RHEMA TV" tvg-logo="http://movies.iptvhn.net/chlogos/rhema.png" group-title="Religiosos",RHEMA TV
+http://go.iptvhn.net:25461/live/7686/7686/161.ts
+#EXTINF:-1 tvg-id="" tvg-name="SEMILLITAS" tvg-logo="http://movies.iptvhn.net/chlogos/semillitas.png" group-title="Infantiles",SEMILLITAS
+http://go.iptvhn.net:25461/live/7686/7686/162.ts
+#EXTINF:-1 tvg-id="" tvg-name="SERTV - PAN" tvg-logo="http://movies.iptvhn.net/chlogos/sertv.png" group-title="Locales Panama",SERTV - PAN
+http://go.iptvhn.net:25461/live/7686/7686/163.ts
+#EXTINF:-1 tvg-id="" tvg-name="SONY" tvg-logo="http://movies.iptvhn.net/chlogos/sony.png" group-title="Peliculas",SONY
+http://go.iptvhn.net:25461/live/7686/7686/164.ts
+#EXTINF:-1 tvg-id="" tvg-name="SONY HD" tvg-logo="http://movies.iptvhn.net/chlogos/sonyhd.png" group-title="Peliculas",SONY HD
+http://go.iptvhn.net:25461/live/7686/7686/165.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPACE" tvg-logo="http://movies.iptvhn.net/chlogos/space.png" group-title="Peliculas",SPACE
+http://go.iptvhn.net:25461/live/7686/7686/166.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPACE HD" tvg-logo="http://movies.iptvhn.net/chlogos/spacehd.png" group-title="Peliculas",SPACE HD
+http://go.iptvhn.net:25461/live/7686/7686/167.ts
+#EXTINF:-1 tvg-id="" tvg-name="STAR CHANNEL" tvg-logo="http://movies.iptvhn.net/chlogos/starchannel.png" group-title="Peliculas",STAR CHANNEL
+http://go.iptvhn.net:25461/live/7686/7686/168.ts
+#EXTINF:-1 tvg-id="" tvg-name="STAR CHANNEL HD" tvg-logo="http://movies.iptvhn.net/chlogos/starchannelhd.png" group-title="Peliculas",STAR CHANNEL HD
+http://go.iptvhn.net:25461/live/7686/7686/169.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sembrador" tvg-logo="http://movies.iptvhn.net/chlogos/sembrador.png" group-title="Religiosos",Sembrador
+http://go.iptvhn.net:25461/live/7686/7686/170.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sony Movies HD" tvg-logo="http://movies.iptvhn.net/chlogos/sony.png" group-title="Peliculas",Sony Movies HD
+http://go.iptvhn.net:25461/live/7686/7686/172.ts
+#EXTINF:-1 tvg-id="" tvg-name="Star TVE HD" tvg-logo="http://movies.iptvhn.net/chlogos/startve.png" group-title="Peliculas",Star TVE HD
+http://go.iptvhn.net:25461/live/7686/7686/173.ts
+#EXTINF:-1 tvg-id="" tvg-name="Studio Universal" tvg-logo="http://movies.iptvhn.net/chlogos/studio.png" group-title="Peliculas",Studio Universal
+http://go.iptvhn.net:25461/live/7686/7686/174.ts
+#EXTINF:-1 tvg-id="" tvg-name="Studio Universal HD" tvg-logo="http://movies.iptvhn.net/chlogos/studiohd.png" group-title="Peliculas",Studio Universal HD
+http://go.iptvhn.net:25461/live/7686/7686/175.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sun Channel" tvg-logo="http://movies.iptvhn.net/chlogos/sun.png" group-title="Entretenimiento",Sun Channel
+http://go.iptvhn.net:25461/live/7686/7686/176.ts
+#EXTINF:-1 tvg-id="" tvg-name="SyFy" tvg-logo="http://movies.iptvhn.net/chlogos/syfy.png" group-title="Peliculas",SyFy
+http://go.iptvhn.net:25461/live/7686/7686/177.ts
+#EXTINF:-1 tvg-id="" tvg-name="TBN Enlace" tvg-logo="http://movies.iptvhn.net/chlogos/enlace.png" group-title="Locales Honduras",TBN Enlace
+http://go.iptvhn.net:25461/live/7686/7686/178.ts
+#EXTINF:-1 tvg-id="" tvg-name="TBS" tvg-logo="http://movies.iptvhn.net/chlogos/tbs.png" group-title="Entretenimiento",TBS
+http://go.iptvhn.net:25461/live/7686/7686/179.ts
+#EXTINF:-1 tvg-id="" tvg-name="TCM" tvg-logo="http://movies.iptvhn.net/chlogos/tcm.png" group-title="Peliculas",TCM
+http://go.iptvhn.net:25461/live/7686/7686/180.ts
+#EXTINF:-1 tvg-id="" tvg-name="TD+2 HD CR" tvg-logo="http://movies.iptvhn.net/chlogos/td2cr.png" group-title="Locales Costa Rica",TD+2 HD CR
+http://go.iptvhn.net:25461/live/7686/7686/181.ts
+#EXTINF:-1 tvg-id="" tvg-name="TD+HD CR" tvg-logo="http://movies.iptvhn.net/chlogos/tdcr.png" group-title="Locales Costa Rica",TD+HD CR
+http://go.iptvhn.net:25461/live/7686/7686/182.ts
+#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="http://movies.iptvhn.net/chlogos/tlc.png" group-title="Entretenimiento",TLC
+http://go.iptvhn.net:25461/live/7686/7686/183.ts
+#EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo="http://movies.iptvhn.net/chlogos/tnt.png" group-title="Peliculas",TNT
+http://go.iptvhn.net:25461/live/7686/7686/184.ts
+#EXTINF:-1 tvg-id="" tvg-name="TNT HD" tvg-logo="http://movies.iptvhn.net/chlogos/tnthd.png" group-title="Peliculas",TNT HD
+http://go.iptvhn.net:25461/live/7686/7686/185.ts
+#EXTINF:-1 tvg-id="" tvg-name="TNT Series" tvg-logo="http://movies.iptvhn.net/chlogos/tntseries.png" group-title="Peliculas",TNT Series
+http://go.iptvhn.net:25461/live/7686/7686/186.ts
+#EXTINF:-1 tvg-id="" tvg-name="TNT Series HD" tvg-logo="http://movies.iptvhn.net/chlogos/tntserieshd.png" group-title="Peliculas",TNT Series HD
+http://go.iptvhn.net:25461/live/7686/7686/187.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV  Max - PAN" tvg-logo="http://movies.iptvhn.net/chlogos/tvmax.png" group-title="Locales Panama",TV  Max - PAN
+http://go.iptvhn.net:25461/live/7686/7686/188.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVChile" tvg-logo="http://movies.iptvhn.net/chlogos/tvchile.png" group-title="Internacionales",TVChile
+http://go.iptvhn.net:25461/live/7686/7686/189.ts
+#EXTINF:-1 tvg-id="" tvg-name="Teen Nick HD" tvg-logo="http://movies.iptvhn.net/chlogos/teennick.png" group-title="Infantiles",Teen Nick HD
+http://go.iptvhn.net:25461/live/7686/7686/190.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tele Antillas - RD" tvg-logo="http://movies.iptvhn.net/chlogos/teleantillas.png" group-title="Republica Dominicana",Tele Antillas - RD
+http://go.iptvhn.net:25461/live/7686/7686/191.ts
+#EXTINF:-1 tvg-id="" tvg-name="TeleMicro - RD" tvg-logo="http://movies.iptvhn.net/chlogos/telemicro.png" group-title="Republica Dominicana",TeleMicro - RD
+http://go.iptvhn.net:25461/live/7686/7686/192.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telecadena - HON" tvg-logo="http://movies.iptvhn.net/chlogos/telecadena.png" group-title="Locales Honduras",Telecadena - HON
+http://go.iptvhn.net:25461/live/7686/7686/193.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telecentro - RD" tvg-logo="http://movies.iptvhn.net/chlogos/telecentro.png" group-title="Republica Dominicana",Telecentro - RD
+http://go.iptvhn.net:25461/live/7686/7686/194.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telemundo" tvg-logo="http://movies.iptvhn.net/chlogos/telemundo.png" group-title="Entretenimiento",Telemundo
+http://go.iptvhn.net:25461/live/7686/7686/195.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telemundo HD" tvg-logo="http://movies.iptvhn.net/chlogos/telemundohd.png" group-title="Entretenimiento",Telemundo HD
+http://go.iptvhn.net:25461/live/7686/7686/196.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telesistema RD" tvg-logo="http://movies.iptvhn.net/chlogos/telesistema.png" group-title="Republica Dominicana",Telesistema RD
+http://go.iptvhn.net:25461/live/7686/7686/197.ts
+#EXTINF:-1 tvg-id="" tvg-name="Teleuniverso - RD" tvg-logo="http://movies.iptvhn.net/chlogos/teleuniverso.png" group-title="Republica Dominicana",Teleuniverso - RD
+http://go.iptvhn.net:25461/live/7686/7686/198.ts
+#EXTINF:-1 tvg-id="" tvg-name="Televida RD" tvg-logo="http://movies.iptvhn.net/chlogos/televida.png" group-title="Republica Dominicana",Televida RD
+http://go.iptvhn.net:25461/live/7686/7686/199.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tigo Sports HD" tvg-logo="http://movies.iptvhn.net/chlogos/tigosport.png" group-title="Deportes",Tigo Sports HD
+http://go.iptvhn.net:25461/live/7686/7686/200.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tooncast" tvg-logo="http://movies.iptvhn.net/chlogos/tooncast.png" group-title="Infantiles",Tooncast
+http://go.iptvhn.net:25461/live/7686/7686/201.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tru TV" tvg-logo="http://movies.iptvhn.net/chlogos/trutv.png" group-title="Entretenimiento",Tru TV
+http://go.iptvhn.net:25461/live/7686/7686/202.ts
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL CINEMA ESTE HD" tvg-logo="http://movies.iptvhn.net/chlogos/universal.png" group-title="Peliculas",UNIVERSAL CINEMA ESTE HD
+http://go.iptvhn.net:25461/live/7686/7686/203.ts
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL COMEDY HD" tvg-logo="http://movies.iptvhn.net/chlogos/universalcomedy.png" group-title="Peliculas",UNIVERSAL COMEDY HD
+http://go.iptvhn.net:25461/live/7686/7686/204.ts
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL CRIME HD" tvg-logo="http://movies.iptvhn.net/chlogos/universalcrime.png" group-title="Peliculas",UNIVERSAL CRIME HD
+http://go.iptvhn.net:25461/live/7686/7686/205.ts
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL PREMIERE HD" tvg-logo="http://movies.iptvhn.net/chlogos/universalpremiere.png" group-title="Peliculas",UNIVERSAL PREMIERE HD
+http://go.iptvhn.net:25461/live/7686/7686/206.ts
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL PREMIERE O HD" tvg-logo="http://movies.iptvhn.net/chlogos/universalpremiere.png" group-title="Peliculas",UNIVERSAL PREMIERE O HD
+http://go.iptvhn.net:25461/live/7686/7686/207.ts
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL REALITY HD" tvg-logo="http://movies.iptvhn.net/chlogos/universalreality.png" group-title="Peliculas",UNIVERSAL REALITY HD
+http://go.iptvhn.net:25461/live/7686/7686/208.ts
+#EXTINF:-1 tvg-id="" tvg-name="Universal" tvg-logo="http://movies.iptvhn.net/chlogos/universal.png" group-title="Peliculas",Universal
+http://go.iptvhn.net:25461/live/7686/7686/209.ts
+#EXTINF:-1 tvg-id="" tvg-name="Univision HD" tvg-logo="http://movies.iptvhn.net/chlogos/univision.png" group-title="Entretenimiento",Univision HD
+http://go.iptvhn.net:25461/live/7686/7686/210.ts
+#EXTINF:-1 tvg-id="" tvg-name="VTV Canal 35 ESA" tvg-logo="http://movies.iptvhn.net/chlogos/vtvsal.png" group-title="Locales El Salvador",VTV Canal 35 ESA
+http://go.iptvhn.net:25461/live/7686/7686/212.ts
+#EXTINF:-1 tvg-id="" tvg-name="WARNER HD" tvg-logo="http://movies.iptvhn.net/chlogos/WarnerHD.png" group-title="Peliculas",WARNER HD
+http://go.iptvhn.net:25461/live/7686/7686/213.ts
+#EXTINF:-1 tvg-id="" tvg-name="Warner" tvg-logo="http://movies.iptvhn.net/chlogos/warner.png" group-title="Peliculas",Warner
+http://go.iptvhn.net:25461/live/7686/7686/214.ts
+#EXTINF:-1 tvg-id="" tvg-name="ZooMoo" tvg-logo="http://movies.iptvhn.net/chlogos/zoomoo.png" group-title="Infantiles",ZooMoo
+http://go.iptvhn.net:25461/live/7686/7686/215.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telemundo 51 FHD" tvg-logo="http://go.iptvhn.net:25461/images/563cd5a9853fb3d89c20791454c4ba02.png" group-title="Entretenimiento",Telemundo 51 FHD
+http://go.iptvhn.net:25461/live/7686/7686/216.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport HD" tvg-logo="http://movies.iptvhn.net/chlogos/beinsport.png" group-title="Deportes",Bein Sport HD
+http://go.iptvhn.net:25461/live/7686/7686/217.ts
+#EXTINF:-1 tvg-id="" tvg-name="La Liga TV HD" tvg-logo="http://movies.iptvhn.net/chlogos/laligatv.png" group-title="Deportes",La Liga TV HD
+http://go.iptvhn.net:25461/live/7686/7686/218.ts
+#EXTINF:-1 tvg-id="" tvg-name="DirecTV Sport HD" tvg-logo="http://movies.iptvhn.net/chlogos/directvsport.png" group-title="Deportes",DirecTV Sport HD
+http://go.iptvhn.net:25461/live/7686/7686/219.ts
+#EXTINF:-1 tvg-id="" tvg-name="CholuSat Sur" tvg-logo="http://go.iptvhn.net:25461/images/145351d173b1eda1847a01425bfe192e.png" group-title="Locales Honduras",CholuSat Sur
+http://go.iptvhn.net:25461/live/7686/7686/221.ts
+#EXTINF:-1 tvg-id="" tvg-name="Reino Infantil HD" tvg-logo="http://movies.iptvhn.net/chlogos/reinoinfantil.png" group-title="Infantiles",Reino Infantil HD
+http://go.iptvhn.net:25461/live/7686/7686/222.ts
+#EXTINF:-1 tvg-id="" tvg-name="DW Español" tvg-logo="http://movies.iptvhn.net/chlogos/dw.png" group-title="Internacionales",DW Español
+http://go.iptvhn.net:25461/live/7686/7686/223.ts
+#EXTINF:-1 tvg-id="" tvg-name="RTVE Noticias" tvg-logo="http://movies.iptvhn.net/chlogos/rtvenoticias.png" group-title="Noticias",RTVE Noticias
+http://go.iptvhn.net:25461/live/7686/7686/224.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tigo Sport +" tvg-logo="http://movies.iptvhn.net/chlogos/tigosport.png" group-title="Deportes",Tigo Sport +
+http://go.iptvhn.net:25461/live/7686/7686/225.ts
+#EXTINF:-1 tvg-id="" tvg-name="TSI" tvg-logo="http://movies.iptvhn.net/chlogos/tsi.png" group-title="Locales Honduras",TSI
+http://go.iptvhn.net:25461/live/7686/7686/226.ts
+#EXTINF:-1 tvg-id="" tvg-name="45TV Ceiba" tvg-logo="http://movies.iptvhn.net/chlogos/45tvhn.png" group-title="Locales Honduras",45TV Ceiba
+http://go.iptvhn.net:25461/live/7686/7686/227.ts
+#EXTINF:-1 tvg-id="" tvg-name="TeleCeiba" tvg-logo="http://movies.iptvhn.net/chlogos/teleceiba.png" group-title="Locales Honduras",TeleCeiba
+http://go.iptvhn.net:25461/live/7686/7686/228.ts
+#EXTINF:-1 tvg-id="" tvg-name="SKY Sport 01" tvg-logo="http://movies.iptvhn.net/chlogos/skysport.png" group-title="Deportes",SKY Sport 01
+http://go.iptvhn.net:25461/live/7686/7686/229.ts
+#EXTINF:-1 tvg-id="" tvg-name="SKY Sport 02" tvg-logo="http://movies.iptvhn.net/chlogos/skysport.png" group-title="Deportes",SKY Sport 02
+http://go.iptvhn.net:25461/live/7686/7686/230.ts
+#EXTINF:-1 tvg-id="" tvg-name="SKY Sport 03" tvg-logo="http://movies.iptvhn.net/chlogos/skysport.png" group-title="Deportes",SKY Sport 03
+http://go.iptvhn.net:25461/live/7686/7686/231.ts
+#EXTINF:-1 tvg-id="" tvg-name="SKY Sport 04" tvg-logo="http://movies.iptvhn.net/chlogos/skysport.png" group-title="Deportes",SKY Sport 04
+http://go.iptvhn.net:25461/live/7686/7686/232.ts
+#EXTINF:-1 tvg-id="" tvg-name="SKY Sport 05" tvg-logo="http://movies.iptvhn.net/chlogos/skysport.png" group-title="Deportes",SKY Sport 05
+http://go.iptvhn.net:25461/live/7686/7686/233.ts
+#EXTINF:-1 tvg-id="" tvg-name="TUDN" tvg-logo="http://movies.iptvhn.net/chlogos/tudn.png" group-title="Deportes",TUDN
+http://go.iptvhn.net:25461/live/7686/7686/234.ts
+#EXTINF:-1 tvg-id="" tvg-name="BundesLiga" tvg-logo="http://movies.iptvhn.net/chlogos/bundesliga.png" group-title="Deportes",BundesLiga
+http://go.iptvhn.net:25461/live/7686/7686/235.ts
+#EXTINF:-1 tvg-id="" tvg-name="TotoVision" tvg-logo="http://movies.iptvhn.net/chlogos/totovision.png" group-title="Locales Guatemala",TotoVision
+http://go.iptvhn.net:25461/live/7686/7686/242.ts
+#EXTINF:-1 tvg-id="" tvg-name="Ebenezer TV" tvg-logo="http://movies.iptvhn.net/chlogos/eben.png" group-title="Religiosos",Ebenezer TV
+http://go.iptvhn.net:25461/live/7686/7686/243.ts
+#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="http://movies.iptvhn.net/chlogos/amc.png" group-title="Peliculas",AMC
+http://go.iptvhn.net:25461/live/7686/7686/8.ts
+#EXTINF:-1 tvg-id="" tvg-name="AMC HD" tvg-logo="http://movies.iptvhn.net/chlogos/amchd.png" group-title="Peliculas",AMC HD
+http://go.iptvhn.net:25461/live/7686/7686/9.ts
+#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="http://movies.iptvhn.net/chlogos/axn.png" group-title="Peliculas",AXN
+http://go.iptvhn.net:25461/live/7686/7686/10.ts
+#EXTINF:-1 tvg-id="" tvg-name="AXN HD" tvg-logo="http://movies.iptvhn.net/chlogos/axnhd.png" group-title="Peliculas",AXN HD
+http://go.iptvhn.net:25461/live/7686/7686/11.ts
+#EXTINF:-1 tvg-id="" tvg-name="AZ click HD" tvg-logo="http://movies.iptvhn.net/chlogos/azclick.png" group-title="Peliculas",AZ click HD
+http://go.iptvhn.net:25461/live/7686/7686/12.ts
+#EXTINF:-1 tvg-id="" tvg-name="TeleProgreso" tvg-logo="http://movies.iptvhn.net/chlogos/teleprogreso.png" group-title="Locales Honduras",TeleProgreso
+http://go.iptvhn.net:25461/live/7686/7686/244.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Conde Patula" tvg-logo="https://www.gustore.cl/img/estampados/7004/7004.png" group-title="24/7",24/7 | Conde Patula
+http://go.iptvhn.net:25461/live/7686/7686/245.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Inspector Ardilla" tvg-logo="https://pbs.twimg.com/profile_images/444899509307334657/a7FREXXB_400x400.png" group-title="24/7",24/7 | Inspector Ardilla
+http://go.iptvhn.net:25461/live/7686/7686/246.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | El mundo de Mickey Mouse" tvg-logo="https://i.pinimg.com/originals/2c/bd/54/2cbd54b8c729f5c2609d0f71b013c379.png" group-title="24/7",24/7 | El mundo de Mickey Mouse
+http://go.iptvhn.net:25461/live/7686/7686/247.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | DragonBall" tvg-logo="https://en.dragon-ball-official.com/assets/img/news/comment/underage_mv.png" group-title="24/7",24/7 | DragonBall
+http://go.iptvhn.net:25461/live/7686/7686/248.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Cantinflas" tvg-logo="https://purepng.com/public/uploads/large/mario-moreno-cantinflas-png-rgp.png" group-title="24/7",24/7 | Cantinflas
+http://go.iptvhn.net:25461/live/7686/7686/249.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nosotros los Guapos" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f8/Nosotros_los_guapos_series_logo.png" group-title="24/7",Nosotros los Guapos
+http://go.iptvhn.net:25461/live/7686/7686/250.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cinema | Universo X-Men" tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/X-Men-Logo-1968.png" group-title="24/7",Cinema | Universo X-Men
+http://go.iptvhn.net:25461/live/7686/7686/251.ts
+#EXTINF:-1 tvg-id="" tvg-name="La Familia Peluche" tvg-logo="https://es.web.img3.acsta.net/pictures/14/07/07/11/22/206842.jpg" group-title="24/7",La Familia Peluche
+http://go.iptvhn.net:25461/live/7686/7686/252.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Tom y Jerry" tvg-logo="https://i.pinimg.com/originals/b1/4f/16/b14f165c3501cc8f53e64b551ad1cd25.png" group-title="24/7",24/7 | Tom y Jerry
+http://go.iptvhn.net:25461/live/7686/7686/253.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | He-Man y los amos del Universo" tvg-logo="https://www.nicepng.com/png/full/163-1634148_he-man-and-the-masters-of-the-universe.png" group-title="24/7",24/7 | He-Man y los amos del Universo
+http://go.iptvhn.net:25461/live/7686/7686/254.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Chicas Super Poderosas" tvg-logo="https://i.pinimg.com/originals/fb/98/7d/fb987deeaedb5175e2ba9da81abdfb04.png" group-title="24/7",24/7 | Chicas Super Poderosas
+http://go.iptvhn.net:25461/live/7686/7686/255.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Padrinos Magicos" tvg-logo="https://i.pinimg.com/originals/d5/d1/c3/d5d1c3030cbb15dd1fe58ae1f4253ed6.png" group-title="24/7",24/7 | Padrinos Magicos
+http://go.iptvhn.net:25461/live/7686/7686/256.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Los Picapiedras" tvg-logo="https://assets.stickpng.com/thumbs/59d624853752880e93e16e94.png" group-title="24/7",24/7 | Los Picapiedras
+http://go.iptvhn.net:25461/live/7686/7686/257.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | El Principe del Rap" tvg-logo="https://i.pinimg.com/originals/0f/7f/f8/0f7ff8049209ba08a0f5bb63b918b904.png" group-title="24/7",24/7 | El Principe del Rap
+http://go.iptvhn.net:25461/live/7686/7686/258.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Futurama" tvg-logo="https://www.pngall.com/wp-content/uploads/13/Futurama-Logo.png" group-title="24/7",24/7 | Futurama
+http://go.iptvhn.net:25461/live/7686/7686/259.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Popeye" tvg-logo="https://seeklogo.com/images/P/popeye-logo-FD01735977-seeklogo.com.png" group-title="24/7",24/7 | Popeye
+http://go.iptvhn.net:25461/live/7686/7686/260.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Candy Candy" tvg-logo="https://dulce-candy.fandom.com/es/wiki/Especial:RutaDeArchivo/Site-logo.png" group-title="24/7",24/7 | Candy Candy
+http://go.iptvhn.net:25461/live/7686/7686/261.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Los Pitufos" tvg-logo="https://www.smurf.com/about/3D/Characters_newtvseries_3D_001%202.png" group-title="24/7",24/7 | Los Pitufos
+http://go.iptvhn.net:25461/live/7686/7686/262.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Aladdin" tvg-logo="https://www.pngmart.com/files/13/Aladdin-Logo-PNG-Free-Download.png" group-title="24/7",24/7 | Aladdin
+http://go.iptvhn.net:25461/live/7686/7686/263.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Chespirito" tvg-logo="https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1240w,f_auto,q_auto:best/newscms/2014_48/786271/141128-chespirito-2242.jpg" group-title="24/7",24/7 | Chespirito
+http://go.iptvhn.net:25461/live/7686/7686/264.ts
+#EXTINF:-1 tvg-id="" tvg-name="Distrito Comedia" tvg-logo="http://movies.iptvhn.net/chlogos/distrito.png" group-title="Entretenimiento",Distrito Comedia
+http://go.iptvhn.net:25461/live/7686/7686/270.ts
+#EXTINF:-1 tvg-id="" tvg-name="SiTV" tvg-logo="http://movies.iptvhn.net/chlogos/sitv.png" group-title="Locales Honduras",SiTV
+http://go.iptvhn.net:25461/live/7686/7686/267.ts
+#EXTINF:-1 tvg-id="" tvg-name="MaryJael TV" tvg-logo="http://movies.iptvhn.net/chlogos/maryjael.png" group-title="Religiosos",MaryJael TV
+http://go.iptvhn.net:25461/live/7686/7686/268.ts
+#EXTINF:-1 tvg-id="" tvg-name="Choluteca TV" tvg-logo="http://movies.iptvhn.net/chlogos/cholutecatv.png" group-title="Locales Honduras",Choluteca TV
+http://go.iptvhn.net:25461/live/7686/7686/269.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bandamax" tvg-logo="http://movies.iptvhn.net/chlogos/bandamax.png" group-title="Musica",Bandamax
+http://go.iptvhn.net:25461/live/7686/7686/271.ts
+#EXTINF:-1 tvg-id="" tvg-name="Univision 23 Miami FHD" tvg-logo="http://go.iptvhn.net:25461/images/28b9b2e09cef8d878b538ddba642a7ec.png" group-title="Entretenimiento",Univision 23 Miami FHD
+http://go.iptvhn.net:25461/live/7686/7686/13054.ts
+#EXTINF:-1 tvg-id="" tvg-name="Unimas FHD" tvg-logo="http://go.iptvhn.net:25461/images/23953e4dfcbe6367edbdedf3b2e10e39.png" group-title="Entretenimiento",Unimas FHD
+http://go.iptvhn.net:25461/live/7686/7686/13055.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBC News" tvg-logo="http://movies.iptvhn.net/chlogos/NBCNews.png" group-title="Entretenimiento",NBC News
+http://go.iptvhn.net:25461/live/7686/7686/13056.ts
+#EXTINF:-1 tvg-id="" tvg-name="11 - Repretel" tvg-logo="http://movies.iptvhn.net/chlogos/repretel.png" group-title="Locales Costa Rica",11 - Repretel
+http://go.iptvhn.net:25461/live/7686/7686/1.ts
+#EXTINF:-1 tvg-id="" tvg-name="13-Sinart" tvg-logo="http://movies.iptvhn.net/chlogos/13sinart.png" group-title="Locales Costa Rica",13-Sinart
+http://go.iptvhn.net:25461/live/7686/7686/2.ts
+#EXTINF:-1 tvg-id="" tvg-name="4 Repretel" tvg-logo="http://movies.iptvhn.net/chlogos/repretel.png" group-title="Locales Costa Rica",4 Repretel
+http://go.iptvhn.net:25461/live/7686/7686/3.ts
+#EXTINF:-1 tvg-id="" tvg-name="42 - Extra TV 42" tvg-logo="http://movies.iptvhn.net/chlogos/extratv.png" group-title="Locales Costa Rica",42 - Extra TV 42
+http://go.iptvhn.net:25461/live/7686/7686/4.ts
+#EXTINF:-1 tvg-id="" tvg-name="6 - Repretel" tvg-logo="http://movies.iptvhn.net/chlogos/repretel.png" group-title="Locales Costa Rica",6 - Repretel
+http://go.iptvhn.net:25461/live/7686/7686/5.ts
+#EXTINF:-1 tvg-id="" tvg-name="Super Mario Bros. La película (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zNKs1T0VZuJiVuhuL5GSCNkGdxf.jpg" group-title="Estrenos",Super Mario Bros. La película (2023)
+http://go.iptvhn.net:25461/movie/7686/7686/272.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jurassic World Dominio (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/VEZtsEQwsItZUoIdqzMwjvkwxI.jpg" group-title="Estrenos",Jurassic World Dominio (2022)
+http://go.iptvhn.net:25461/movie/7686/7686/273.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El cuartel secreto (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hpH62pdEhkeXnbj4qchqz4QssuR.jpg" group-title="Estrenos",El cuartel secreto (2022)
+http://go.iptvhn.net:25461/movie/7686/7686/274.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ant-Man and the Wasp: Quantumania (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jTNYlTEijZ6c8Mn4gvINOeB2HWM.jpg" group-title="Estrenos",Ant-Man and the Wasp: Quantumania (2023)
+http://go.iptvhn.net:25461/movie/7686/7686/275.mkv
+#EXTINF:-1 tvg-id="" tvg-name="¡Shazam! La furia de los dioses (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/igFLHxab9zG0M89OmEpnOM6TPXn.jpg" group-title="Estrenos",¡Shazam! La furia de los dioses (2023)
+http://go.iptvhn.net:25461/movie/7686/7686/276.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Avatar: El camino del agua (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bqOqQ2Tawum3eHKNrc94P4EeaZB.jpg" group-title="Estrenos",Avatar: El camino del agua (2022)
+http://go.iptvhn.net:25461/movie/7686/7686/277.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Creed III (2023) 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fcFMd3HdyX7r5gtFwVnn2qr5Yhq.jpg" group-title="Estrenos",Creed III (2023) 4K
+http://go.iptvhn.net:25461/movie/7686/7686/278.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Un vecino gruñón (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8bNLrZt9lrmnt6LsaGG8GfDfgYR.jpg" group-title="Estrenos",Un vecino gruñón (2022)
+http://go.iptvhn.net:25461/movie/7686/7686/279.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Megan (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xFsqpz9wn7yREHWGQvviiJE9RVO.jpg" group-title="Estrenos",Megan (2020)
+http://go.iptvhn.net:25461/movie/7686/7686/280.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pantera Negra: Wakanda por siempre (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mYpT2R7639KvKZ668uoQGS2QNFp.jpg" group-title="Estrenos",Pantera Negra: Wakanda por siempre (2022)
+http://go.iptvhn.net:25461/movie/7686/7686/281.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ghosteado (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zSw2JeQ03GivcS4VKJmWK5sYi1F.jpg" group-title="Estrenos",Ghosteado (2023)
+http://go.iptvhn.net:25461/movie/7686/7686/282.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Scream 6 (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dvvfHkEinSUWUPtJeWvxOx5hozm.jpg" group-title="Estrenos",Scream 6 (2023)
+http://go.iptvhn.net:25461/movie/7686/7686/283.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Magic Mike: El último baile (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xbkA5mZXwuT4sT1COCChrWGYExv.jpg" group-title="Estrenos",Magic Mike: El último baile (2023)
+http://go.iptvhn.net:25461/movie/7686/7686/284.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Alerta extrema (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/juoinefK6tMbjwJhRpRvbAAmrTB.jpg" group-title="Estrenos",Alerta extrema (2023)
+http://go.iptvhn.net:25461/movie/7686/7686/285.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Llaman a la puerta (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Zna9CvyzaAgejsErmyXmHC64Dd.jpg" group-title="Estrenos",Llaman a la puerta (2023)
+http://go.iptvhn.net:25461/movie/7686/7686/286.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Black Adam (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/87cr9s6zftMp8MLXCMHeGfKuPVL.jpg" group-title="Estrenos",Black Adam (2022)
+http://go.iptvhn.net:25461/movie/7686/7686/287.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bestia (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/usGKyYKENEb2igroUkNIZEOv06i.jpg" group-title="Estrenos",Bestia (2022)
+http://go.iptvhn.net:25461/movie/7686/7686/288.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tren bala (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ybSIUt48PsM08F4UZwHdjL9ZVG2.jpg" group-title="Estrenos",Tren bala (2022)
+http://go.iptvhn.net:25461/movie/7686/7686/289.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Emancipación (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zQe7paVC4tSwb8vBwxSqajJ22Ue.jpg" group-title="Estrenos",Emancipación (2022)
+http://go.iptvhn.net:25461/movie/7686/7686/290.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Noche sin paz (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/piA9ny345UyIMGp0lKYtPJ3RKCa.jpg" group-title="Estrenos",Noche sin paz (2022)
+http://go.iptvhn.net:25461/movie/7686/7686/291.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pinocho de Guillermo del Toro (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hVa3OCfwqFm6K3Sk6IF68cYr7uk.jpg" group-title="Estrenos",Pinocho de Guillermo del Toro (2022)
+http://go.iptvhn.net:25461/movie/7686/7686/292.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Selena Gomez: Mi Mente y Yo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kOmjk26BIG54wveOq920JAeaFdG.jpg" group-title="Estrenos",Selena Gomez: Mi Mente y Yo (2022)
+http://go.iptvhn.net:25461/movie/7686/7686/293.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sociedad de honor (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nUyM9VBcIuGzACORtXEMD9tcgWv.jpg" group-title="Estrenos",Sociedad de honor (2022)
+http://go.iptvhn.net:25461/movie/7686/7686/294.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El menú (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eNcfCScUUyHQyjP84P25a8ColWp.jpg" group-title="Estrenos",El menú (2022)
+http://go.iptvhn.net:25461/movie/7686/7686/295.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La ballena (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kVpDsnMNKvpKGQQEkcfPbeVVTbN.jpg" group-title="Estrenos",La ballena (2022)
+http://go.iptvhn.net:25461/movie/7686/7686/296.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Mujer Rey (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jny1jvCkgpzc3C0axQsX9ADYcAl.jpg" group-title="Estrenos",La Mujer Rey (2022)
+http://go.iptvhn.net:25461/movie/7686/7686/297.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Thor: Amor y Trueno (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z9ajF6E39Hg2pXUofmUYgZHvdX.jpg" group-title="Estrenos",Thor: Amor y Trueno (2022)
+http://go.iptvhn.net:25461/movie/7686/7686/298.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Un mundo extraño (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c16eybXiG9ysoTu7yV460w0Jj43.jpg" group-title="Estrenos",Un mundo extraño (2022)
+http://go.iptvhn.net:25461/movie/7686/7686/299.mkv
+#EXTINF:-1 tvg-id="" tvg-name="¡Nop! (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hlJKvYdKJJeWoKeNNs1Fom1chIz.jpg" group-title="Estrenos",¡Nop! (2022)
+http://go.iptvhn.net:25461/movie/7686/7686/300.mkv
+#EXTINF:-1 tvg-id="" tvg-name="DC Liga De Supermascotas (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lDtANZzTD80bVi1DTRKRVDrurhJ.jpg" group-title="Estrenos",DC Liga De Supermascotas (2022)
+http://go.iptvhn.net:25461/movie/7686/7686/301.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Depredador: La presa (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sNAMqQ9T7YnXnvUSufeWzaRgK6Y.jpg" group-title="Estrenos",Depredador: La presa (2022)
+http://go.iptvhn.net:25461/movie/7686/7686/302.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ambulance: Plan de huida (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y7Lnz3ayJyW9IWmbA0M19vpBbu4.jpg" group-title="Estrenos",Ambulance: Plan de huida (2022)
+http://go.iptvhn.net:25461/movie/7686/7686/303.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Animales fantásticos: Los secretos de Dumbledore (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yOeuJdwag4bAlnvgrdweRoiuXGC.jpg" group-title="Estrenos",Animales fantásticos: Los secretos de Dumbledore (2022)
+http://go.iptvhn.net:25461/movie/7686/7686/304.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Batman (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mo7teil1qH0SxgLijnqeYP1Eb4w.jpg" group-title="Estrenos",Batman (2022)
+http://go.iptvhn.net:25461/movie/7686/7686/305.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Contre-Jour (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jYDusqBPhxrFbCtpXwKmXqcRwEY.jpg" group-title="Estrenos",Contre-Jour (2022)
+http://go.iptvhn.net:25461/movie/7686/7686/306.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cásate Conmigo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f0p7beh1Zil35jahcUgSGL1v430.jpg" group-title="Estrenos",Cásate Conmigo (2022)
+http://go.iptvhn.net:25461/movie/7686/7686/307.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cha Cha Real Smooth, ¡a bailar! (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q0rEvcYwS8IOaGugHExoZx7zd47.jpg" group-title="Estrenos",Cha Cha Real Smooth, ¡a bailar! (2022)
+http://go.iptvhn.net:25461/movie/7686/7686/308.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mas Barato por Docena (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wGYAfIqMiTtNUMrtOPgWLxYKTrE.jpg" group-title="Estrenos",Mas Barato por Docena (2022)
+http://go.iptvhn.net:25461/movie/7686/7686/309.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El cielo está en cualquier lugar (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t7gkTKPJ5lssacKTrhA3gOU1n0s.jpg" group-title="Estrenos",El cielo está en cualquier lugar (2022)
+http://go.iptvhn.net:25461/movie/7686/7686/310.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Hombre del Norte (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rdx0bIkwxW3EHvWn5kxZBFUT1Am.jpg" group-title="Estrenos",El Hombre del Norte (2022)
+http://go.iptvhn.net:25461/movie/7686/7686/311.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El padre de la novia (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wuhRy3B36plwnAxAUKD0AgzZC7a.jpg" group-title="Estrenos",El padre de la novia (2022)
+http://go.iptvhn.net:25461/movie/7686/7686/312.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Valet (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d27yNLvnSESdJSqOnlYNJKMFXvL.jpg" group-title="Estrenos",El Valet (2022)
+http://go.iptvhn.net:25461/movie/7686/7686/313.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter 20 Aniversario: Regreso a Hogwarts (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eEqy4buuj4hJfXvMQiwpl6GJzY9.jpg" group-title="Estrenos",Harry Potter 20 Aniversario: Regreso a Hogwarts (2022)
+http://go.iptvhn.net:25461/movie/7686/7686/314.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jackass por Siempre (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rCfviMjtmvMJUGBWK1xjUsQhn7S.jpg" group-title="Estrenos",Jackass por Siempre (2022)
+http://go.iptvhn.net:25461/movie/7686/7686/315.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jinetes Desesperados (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3AqV9ygw2hrDQ0AIGPdTee9ocqd.jpg" group-title="Estrenos",Jinetes Desesperados (2022)
+http://go.iptvhn.net:25461/movie/7686/7686/316.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kimi: Alguien está escuchando (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/okNgwtxIWzGsNlR3GsOS0i0Qgbn.jpg" group-title="Estrenos",Kimi: Alguien está escuchando (2022)
+http://go.iptvhn.net:25461/movie/7686/7686/317.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La ciudad perdida (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qgcPpNM78CENHqRDW2sJNwzjOS2.jpg" group-title="Estrenos",La ciudad perdida (2022)
+http://go.iptvhn.net:25461/movie/7686/7686/318.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Lightyear (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bPIm1SXYp5RQ3c4wP91JQRewIb8.jpg" group-title="Estrenos",Lightyear (2022)
+http://go.iptvhn.net:25461/movie/7686/7686/319.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Tipos Malos (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wFdwJh3fbhp5aiRbQelVz1mbbwP.jpg" group-title="Estrenos",Los Tipos Malos (2022)
+http://go.iptvhn.net:25461/movie/7686/7686/320.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Luck (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bwlHp4KsAyuEIAtbYs4mxCkrgyx.jpg" group-title="Estrenos",Luck (2022)
+http://go.iptvhn.net:25461/movie/7686/7686/321.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Asesino sin memoria (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zUa7VyFnt4Wj3NYIlh8fn8xkVqq.jpg" group-title="Estrenos",Asesino sin memoria (2022)
+http://go.iptvhn.net:25461/movie/7686/7686/322.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Creed III (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fcFMd3HdyX7r5gtFwVnn2qr5Yhq.jpg" group-title="Estrenos",Creed III (2023)
+http://go.iptvhn.net:25461/movie/7686/7686/323.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Minions: Nace un villano (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zCdvIdb6SvoaOzTqCWFQdCEmOXq.jpg" group-title="Estrenos",Minions: Nace un villano (2022)
+http://go.iptvhn.net:25461/movie/7686/7686/324.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Moonfall: Impacto Lunar (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nRUN5ywlehfB8opryZkXwfYSGAl.jpg" group-title="Estrenos",Moonfall: Impacto Lunar (2022)
+http://go.iptvhn.net:25461/movie/7686/7686/325.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Morbius (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4jcJHqIVsb4MFdYrDajXeEVlDvH.jpg" group-title="Estrenos",Morbius (2022)
+http://go.iptvhn.net:25461/movie/7686/7686/326.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Muerte en el Nilo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sWB5i8r8EprS75q7rSGCszOrOH0.jpg" group-title="Estrenos",Muerte en el Nilo (2022)
+http://go.iptvhn.net:25461/movie/7686/7686/327.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Refugiado Americano (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wwTkA8kU525yuIvw1khsGedZyh0.jpg" group-title="Estrenos",Refugiado Americano (2021)
+http://go.iptvhn.net:25461/movie/7686/7686/328.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sonic 2: La Película (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sJiHVM0A3OXDVxl4Z6a7ihMPHfm.jpg" group-title="Estrenos",Sonic 2: La Película (2022)
+http://go.iptvhn.net:25461/movie/7686/7686/329.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Proyecto Adam (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k5waciRFMN5bwudDrgFLffoAorm.jpg" group-title="Estrenos",El Proyecto Adam (2022)
+http://go.iptvhn.net:25461/movie/7686/7686/330.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Titan Fallout (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bRDIJkpCXjb82HP87ksTE8kO5Ea.jpg" group-title="Estrenos",The Titan Fallout (2022)
+http://go.iptvhn.net:25461/movie/7686/7686/331.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Todo en todas partes al mismo tiempo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ildVXPXTQFly8VAgIrre5v5rbbQ.jpg" group-title="Estrenos",Todo en todas partes al mismo tiempo (2022)
+http://go.iptvhn.net:25461/movie/7686/7686/332.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Red (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tYRd7O5Eht4jypJQrMWnCi26880.jpg" group-title="Estrenos",Red (2022)
+http://go.iptvhn.net:25461/movie/7686/7686/333.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Uncharted: Fuera del mapa (2022)" tvg-logo="http://go.iptvhn.net:25461/images/cec7a4b8942cd03d78330164e4596d78.jpg" group-title="Estrenos",Uncharted: Fuera del mapa (2022)
+http://go.iptvhn.net:25461/movie/7686/7686/334.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sing 2: ¡Ven y canta de nuevo! (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9iIDsw7RJHYU94z7k4mbYP5IlYT.jpg" group-title="Estrenos",Sing 2: ¡Ven y canta de nuevo! (2021)
+http://go.iptvhn.net:25461/movie/7686/7686/335.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Alerta roja (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/odBUpjZGxY3y7FBo5NBtEYGJf5r.jpg" group-title="Estrenos",Alerta roja (2021)
+http://go.iptvhn.net:25461/movie/7686/7686/336.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Amigos de las vacaciones (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5gQmECcdlJeYlBHTh0TIz3DE75Y.jpg" group-title="Estrenos",Amigos de las vacaciones (2021)
+http://go.iptvhn.net:25461/movie/7686/7686/337.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Siete Machos (1951)" tvg-logo="http://go.iptvhn.net:25461/images/70d554f5fad1ddc979c1c394b1c55ced.jpg" group-title="Mexicanas",El Siete Machos (1951)
+http://go.iptvhn.net:25461/movie/7686/7686/338.mkv
+#EXTINF:-1 tvg-id="" tvg-name="¡A volar, joven! (1947)" tvg-logo="http://go.iptvhn.net:25461/images/fbbd4c0f0be691377f10e334fbca2c64.jpg" group-title="Mexicanas",¡A volar, joven! (1947)
+http://go.iptvhn.net:25461/movie/7686/7686/339.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Abajo el telón (1955)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5SkOJOijmnnr3hqrTpDFBCPBL8t.jpg" group-title="Mexicanas",Abajo el telón (1955)
+http://go.iptvhn.net:25461/movie/7686/7686/340.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Águila o Sol (1938)" tvg-logo="http://go.iptvhn.net:25461/images/03a9d6c5a3aec6d33a387a531962c5cc.jpg" group-title="Mexicanas",Águila o Sol (1938)
+http://go.iptvhn.net:25461/movie/7686/7686/341.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ahí está el detalle (1940)" tvg-logo="http://go.iptvhn.net:25461/images/4d109c91e259868874072fe6f21f6d40.jpg" group-title="Mexicanas",Ahí está el detalle (1940)
+http://go.iptvhn.net:25461/movie/7686/7686/342.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Así es mi tierra (1937)" tvg-logo="http://go.iptvhn.net:25461/images/21bc6a06f1427538a0ab1ca429b70b17.jpg" group-title="Mexicanas",Así es mi tierra (1937)
+http://go.iptvhn.net:25461/movie/7686/7686/343.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Caballero a la Medida (1954)" tvg-logo="http://go.iptvhn.net:25461/images/169bd155ca492416628a4e6f93e79f80.jpg" group-title="Mexicanas",Caballero a la Medida (1954)
+http://go.iptvhn.net:25461/movie/7686/7686/344.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Don Quijote cabalga de nuevo (1973)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hMOfdS5xk1mDjue4MRM9wlgIFDK.jpg" group-title="Mexicanas",Don Quijote cabalga de nuevo (1973)
+http://go.iptvhn.net:25461/movie/7686/7686/345.mp4
